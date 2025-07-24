@@ -21,7 +21,7 @@
 
 ### 1. Clonar o Descargar el Proyecto
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/DanielSotoo/Desafio1-DSM.git
 cd Desafio1-DSM
 ```
 
