@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="monto_total">Monto Total</string>
+    <string name="numero_personas">Número de Personas</string>
+    <string name="propina">Propina</string>
+    <string name="incluir_iva">Incluir IVA (16%)</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="titulo_app">Calculadora de Propinas para grupos tacaños</string>
+</resources>
